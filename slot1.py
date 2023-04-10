@@ -11,3 +11,5 @@ print(x.edad)
 setattr(x, 'sexo', 'masculino')
 print(getattr(x, 'edad'))
 print(getattr(x, 'sexo'))
+
+print("Hola")
